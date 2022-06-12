@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sebastian-gonz
+- 👀 I’m interested in computer networking and machine learning  
+- 🌱 I’m currently learning systems engineering at Stanford University
+- 💞️ I’m looking to collaborate on projects that have positive change on the world! 
+- 📫 You can reach me at sgonz@stanford.edu :)
